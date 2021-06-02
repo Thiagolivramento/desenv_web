@@ -6,5 +6,7 @@ Foram criadas as rotas para cada tipo de ação (inserir, atualizar, deletar e l
 Os usuários são vinculados a uma modalidade. 
 
 Os dados são cadastrados em um DB relacional e é possível fazer a persistência dos dados.
-No caso estamos usando um MYSQL.
+No caso estamos usando o MYSQL/MariaDB.
+
+Você vai encontrar: as classes DAO, Models e Servlet.
 
