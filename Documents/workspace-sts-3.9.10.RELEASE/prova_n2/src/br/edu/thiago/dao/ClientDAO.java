@@ -12,7 +12,7 @@ import br.edu.thiago.model.Client;
 
 public class ClientDAO {
 
-	private String jdbcURL = "jdbc:mariadb://localhost:3306/desenv_web?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
+	private String jdbcURL = "jdbc:mysql://localhost:3306/desenv_web?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
 
 	private String jdbcUsername = "root";
 
